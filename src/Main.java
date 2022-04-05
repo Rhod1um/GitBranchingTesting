@@ -9,6 +9,10 @@ public class Main {
         System.out.println(cat.eat("Viskas"));
         System.out.println(dog.eat("Wild Nature"));
 
+        dog.mood();
+        cat.mood();
+
+
         //gul tag - hvor man er
         //grøn tag - branches
         //lilla tag - online
