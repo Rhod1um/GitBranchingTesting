@@ -6,4 +6,9 @@ public class Cat extends Animal{
         //abstract metode er tilføjet
     }
 
+    @Override
+    public boolean eat(String foodtype) {
+        return false;
+    }
+
 }
