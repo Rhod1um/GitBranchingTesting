@@ -6,5 +6,12 @@ public class Main {
         dog.makeSound();
         cat.makeSound();
 
+        System.out.println(cat.eat("viscas"));
+        System.out.println(dog.eat("Wild nature"));
+
+        //gul tag - hvor man er
+        //grøn tag - branches
+        //lilla tag - online
+
     }
 }
