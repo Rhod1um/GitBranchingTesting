@@ -6,8 +6,8 @@ public class Main {
         dog.makeSound();
         cat.makeSound();
 
-        System.out.println(cat.eat("viscas"));
-        System.out.println(dog.eat("Wild nature"));
+        System.out.println(cat.eat("Viskas"));
+        System.out.println(dog.eat("Wild Nature"));
 
         //gul tag - hvor man er
         //grøn tag - branches
